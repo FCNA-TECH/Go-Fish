@@ -1,0 +1,7 @@
+
+slowdown:1
+rounds:5
+plus points:10
+minus points:5
+co-author:
+the numbers can be altered to your hearts content but please do not change the order the words
