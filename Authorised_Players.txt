@@ -1,0 +1,1 @@
+The "database" which the usernames of authorised players will be stored
