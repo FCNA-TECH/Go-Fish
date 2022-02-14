@@ -311,9 +311,7 @@ while True:
                     print("TIEBREAKER!")
                     tiebreaker = True
                     
-                    
-                
-                
+                                                    
             roundnumber = roundnumber + 1
 
             input("[" + player1 + "] Roll the dice... (press ↩ to continue) ")
@@ -389,8 +387,7 @@ while True:
                     print(f)
             time.sleep(slowdown+2)
 
-
-
+            
     if options == "3":
         while True:
             Attemptregistration = 1
@@ -411,8 +408,7 @@ while True:
                 print("Attempt number - " + str(Attemptregistration))
                 Attemptregistration += 1
 
-
-
+                
     if options == "4":
         print("")
         print("")
