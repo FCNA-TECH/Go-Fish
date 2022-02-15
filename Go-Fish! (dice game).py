@@ -1,4 +1,5 @@
 # Designed by Ferdinand
+# Created on 25/01/2022 and was finished on 13/02/2022
 
 import random
 import time
@@ -154,7 +155,6 @@ except:
         almost_coauthor = setup[5]                                
         coauthor = almost_coauthor.lstrip("co-author:")
     time.sleep(1)
-
 
 time.sleep(slowdown+1)
 print("")
